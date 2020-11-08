@@ -6,5 +6,3 @@ Git tracks changes.
 Merge branch test.
 
 Creating a new branch is quick && simple.
-
-Add merge.
